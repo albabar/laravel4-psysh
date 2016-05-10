@@ -3,7 +3,7 @@
     "description": "An alternative shell for Laravel using PsySH",
     "require": {
         "laravel/framework": "4.0.x",
-        "psy/psysh": "0.1.0"
+        "psy/psysh": "0.2.0"
     },
     "license": "MIT",
     "authors": [
